@@ -1,0 +1,22 @@
+header{
+    background-color: #E0E0E0;
+    text-align: center;
+    
+}
+h1{background-color:#C4C4C4;
+    ;
+color:#005677;
+;
+}
+h2{color: #005677;
+    background-color:#C4C4C4;
+
+    ;}
+    .negrita{
+        font-weight: bold ;
+    }
+    footer{text-align: center;
+    background-color: #005677;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    }
